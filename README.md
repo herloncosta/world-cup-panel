@@ -2,6 +2,8 @@
 
 Painel interativo com dados da Copa do Mundo FIFA 2026, incluindo classificação de grupos, partidas, confrontos do mata-mata e artilharia.
 
+![Dashboard Preview](public/image.png)
+
 ## Stack
 
 - **React 19** + **TypeScript**
